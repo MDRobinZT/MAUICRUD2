@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\resources\\splash\\splash.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\resources\\splash\\splash.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\pages\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\pages\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|c:\\users\\opilane\\source\\repos\\maui\\mauicrudaas\\maui\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEAC0F-7016-431A-8F38-D6FA4BE256A4}|Maui\\Maui.csproj|solutionrelative:maui\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "splash.svg",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Resources\\Splash\\splash.svg",
+              "RelativeDocumentMoniker": "Maui\\Resources\\Splash\\splash.svg",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Resources\\Splash\\splash.svg",
+              "RelativeToolTip": "Maui\\Resources\\Splash\\splash.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-05T08:23:33.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Maui\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\AppShell.xaml",
+              "RelativeToolTip": "Maui\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T06:32:35.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Maui\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\MainPage.xaml.cs",
+              "RelativeToolTip": "Maui\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:27:46.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "Maui\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "Maui\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T06:27:59.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Maui\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\MainPage.xaml",
+              "RelativeToolTip": "Maui\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T06:32:26.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Maui\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Maui\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T07:32:11.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Pages\\Page1.xaml",
+              "RelativeDocumentMoniker": "Maui\\Pages\\Page1.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Pages\\Page1.xaml",
+              "RelativeToolTip": "Maui\\Pages\\Page1.xaml",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAhwEoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T06:28:11.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Maui\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Models\\Product.cs",
+              "RelativeToolTip": "Maui\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:31:51.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Maui\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\MauiProgram.cs",
+              "RelativeToolTip": "Maui\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:32:24.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Maui\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Maui\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:31:58.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Maui\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Maui\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:32:00.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\App.xaml",
+              "RelativeDocumentMoniker": "Maui\\App.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\App.xaml",
+              "RelativeToolTip": "Maui\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T06:27:29.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\ViewModels\\ProductsViewModel.cs",
+              "RelativeDocumentMoniker": "Maui\\ViewModels\\ProductsViewModel.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\ViewModels\\ProductsViewModel.cs",
+              "RelativeToolTip": "Maui\\ViewModels\\ProductsViewModel.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:32:11.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Maui\\Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\Data\\DatabaseContext.cs",
+              "RelativeToolTip": "Maui\\Data\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:31:49.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Maui\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\App.xaml.cs",
+              "RelativeToolTip": "Maui\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:27:48.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Maui\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\MAUI\\MAUICRUDAAS\\Maui\\AppShell.xaml.cs",
+              "RelativeToolTip": "Maui\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:27:41.826Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

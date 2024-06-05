@@ -1,0 +1,57 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Maui.MainPage"
+             BackgroundColor="#f0f4f8">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="StyledButton" TargetType="Button">
+                <Setter Property="FontSize" Value="20" />
+                <Setter Property="FontFamily" Value="Arial" />
+                <Setter Property="BackgroundColor" Value="#ff5722" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="BorderColor" Value="#e64a19" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="CornerRadius" Value="25" />
+                <Setter Property="HeightRequest" Value="50" />
+                <Setter Property="WidthRequest" Value="200" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="Shadow">
+                    <Setter.Value>
+                        <Shadow Brush="#888888" Opacity="0.5" Offset="3,3" />
+                    </Setter.Value>
+                </Setter>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <Grid>
+
+        <Image Source="background.jpg"
+               Aspect="AspectFill"
+               Opacity="0.5" />
+        <ScrollView>
+        <VerticalStackLayout
+            Spacing="15"
+            Padding="30"
+            VerticalOptions="Center"
+            HorizontalOptions="Center">
+
+            <Label
+                Text="MainPage"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="40"
+                FontFamily="Arial"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                TextColor="#3e2723" />
+
+            <Button
+                Text="Get Started"
+                Style="{StaticResource StyledButton}"
+                Clicked="OnNavigateButtonClicked"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</Grid>
+</ContentPage>
